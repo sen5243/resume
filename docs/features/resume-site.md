@@ -12,6 +12,7 @@ A personal resume for Teoh Yong Sen, published as a GitHub repo and a static sit
 
 ## Live URLs
 
+- Custom domain: https://resume.shiina.moe (attached to the Vercel project 2026-07-15; requires a CNAME record at Namecheap: `resume` → `e5ebd4f2fc6af426.vercel-dns-017.com`)
 - Production: https://resume-lime-mu.vercel.app
 - Aliases: https://resume-sen5243s-projects.vercel.app
 - Repo: https://github.com/sen5243/resume
