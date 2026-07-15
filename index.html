@@ -356,6 +356,20 @@
         a {
           border: none !important;
         }
+        /* Single-column layout so ATS parsers read the PDF in document order */
+        .skill-row,
+        .job,
+        .edu {
+          grid-template-columns: 1fr;
+          gap: 0.3rem;
+        }
+        .job-when br {
+          display: none;
+        }
+        .job-when {
+          line-height: 1.4;
+          margin-bottom: 0.2rem;
+        }
       }
 
       a:focus-visible,
@@ -376,6 +390,8 @@
           search-optimized web applications.
         </p>
         <nav class="contact" aria-label="Contact">
+          <a href="mailto:tys5243@gmail.com">tys5243@gmail.com</a>
+          <a href="tel:+60164508189">016-450 8189</a>
           <a href="https://www.linkedin.com/in/teoh-yong-sen-781ab3232/"
             >LinkedIn</a
           >
@@ -385,7 +401,7 @@
       </header>
 
       <section aria-labelledby="about-h">
-        <h2 id="about-h">About</h2>
+        <h2 id="about-h">Summary</h2>
         <div class="about">
           <p>
             I'm a software engineer who enjoys building websites that people
@@ -455,7 +471,7 @@
 
         <article class="job">
           <div class="job-when">
-            Dec 2025 -<br /><span class="now">present</span>
+            Dec 2025 - <br /><span class="now">Present</span>
           </div>
           <div>
             <h3>Software Engineer</h3>
@@ -490,7 +506,7 @@
         </article>
 
         <article class="job">
-          <div class="job-when">Dec 2024 -<br />Dec 2025</div>
+          <div class="job-when">Dec 2024 - <br />Dec 2025</div>
           <div>
             <h3>Junior Software Engineer</h3>
             <p class="org">Kasagi Labo · Kuala Lumpur (hybrid)</p>
@@ -528,7 +544,7 @@
         </article>
 
         <article class="job">
-          <div class="job-when">Jun 2024 -<br />Nov 2024</div>
+          <div class="job-when">Jun 2024 - <br />Nov 2024</div>
           <div>
             <h3>Web Developer Intern</h3>
             <p class="org">Vintedge · Kuala Lumpur (on-site)</p>
@@ -558,7 +574,7 @@
         <h2 id="edu-h">Education</h2>
 
         <div class="edu">
-          <div class="job-when">Nov 2021 -<br />Nov 2024</div>
+          <div class="job-when">Nov 2021 - <br />Nov 2024</div>
           <div>
             <h3>BSc, Computer Software Engineering</h3>
             <p class="school">

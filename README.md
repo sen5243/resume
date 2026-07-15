@@ -2,11 +2,11 @@
 
 **Software Engineer** · Kuala Lumpur, Malaysia
 
-[LinkedIn](https://www.linkedin.com/in/teoh-yong-sen-781ab3232/) · [GitHub](https://github.com/sen5243)
+[tys5243@gmail.com](mailto:tys5243@gmail.com) · 016-450 8189 · [LinkedIn](https://www.linkedin.com/in/teoh-yong-sen-781ab3232/) · [GitHub](https://github.com/sen5243)
 
 ---
 
-## About
+## Summary
 
 I'm a software engineer who enjoys building websites that people find fast, intuitive, and pleasant to use. I build responsive, accessible interfaces with Next.js, React.js, and Tailwind CSS, and bring them to life with Zustand for state management and GSAP and Framer Motion for animation.
 
