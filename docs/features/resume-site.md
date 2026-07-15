@@ -32,6 +32,16 @@ A personal resume for Teoh Yong Sen, published as a GitHub repo and a static sit
 - No em dashes (—) in any text; hyphens and markdown `---` rules are fine.
 - About section: first-person, human tone, ATS-friendly (plain text, standard headings, all technology keywords spelled out, no emoji).
 
+## ATS assessment (2026-07-15)
+
+Content meets ATS standards: standard headings, reverse-chronological roles with title/company/location/dates, plain-text keywords, no emoji or graphics. Known gaps if the printed PDF is used for real applications:
+
+1. No email/phone in the contact row (user has not provided them).
+2. Two-column date-rail layout can scramble parse order in older ATS; the print stylesheet should collapse to single column with inline dates.
+3. Minor: "Summary" parses more reliably than "About"; "Present" capitalized is the standard date form.
+
+Fixes proposed to user, not yet approved.
+
 ## Deployment
 
 One-off CLI deploys: `npx vercel deploy --prod --yes` from the repo root (logged in as `sen5243`). The repo is **not** Git-connected to Vercel, so pushes to GitHub do not auto-deploy; redeploy manually after changes.
