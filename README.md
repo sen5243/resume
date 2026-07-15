@@ -8,9 +8,11 @@
 
 ## About
 
-Software engineer with robust experience in web development, specializing in building engaging, responsive, and user-friendly websites. Experienced in executing comprehensive website redesigns, ensuring intuitive user interfaces and optimal performance across devices.
+I'm a software engineer who enjoys building websites that people find fast, intuitive, and pleasant to use. Most of my work lives on the frontend, where I build responsive, accessible interfaces with Next.js, React.js, and Tailwind CSS, and bring them to life with Zustand for state management and GSAP and Framer Motion for animation.
 
-Skilled in modern frontend technologies such as Next.js, React.js, and Tailwind CSS, coupled with state management tools like Zustand and animation libraries including GSAP and Framer Motion. On the backend, experienced in developing secure and efficient APIs using Express.js and NestJS, with extensive experience in C#, ASP.NET Core, and SQL Server. Experienced in deploying and managing scalable, secure cloud solutions on Google Cloud Platform.
+I'm just as comfortable behind the scenes: developing secure, efficient APIs with Express.js and NestJS, working with C#, ASP.NET Core, and SQL Server, and deploying scalable applications on Google Cloud Platform. I also handle technical SEO — improving site performance, structured data, and search visibility through Google Search Console and Bing Webmaster Tools.
+
+I care about continuous learning and doing things properly — keeping up with new technologies while shipping software that performs well, ranks well, and feels good to use.
 
 ---
 
@@ -42,7 +44,7 @@ Skilled in modern frontend technologies such as Next.js, React.js, and Tailwind 
 #### Junior Software Engineer
 *Dec 2024 – Dec 2025 · Hybrid*
 
-- Web developer at Kasagi Labo, a platform focused on delivering interactive anime-related content and community experiences.
+- Web developer at Kasagi Labo, a platform focused on delivering interactive content and community experiences.
 - Executed comprehensive website redesign initiatives, enhancing user engagement, visual appeal, and overall usability through responsive and intuitive interfaces.
 - Developed frontend components using Next.js, React.js, and Tailwind CSS, achieving optimized performance, accessibility, and seamless responsive design across devices.
 - Utilized advanced state management and animation frameworks (Zustand, GSAP, Framer Motion) to deliver immersive, dynamic user interactions.
